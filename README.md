@@ -4,10 +4,15 @@ This repository is used in AI/ML Internship in Elite Techno Groups containing py
 In this repo. I worked on python programming with the help of JSON,NOSQL databases, documented files and File handling concept and created a Inventory Management System
 ### Files Attached->
 Inventory_Code_1(1)
+
 Inventory_Code_2
+
 Record.json = Containing all the products in the Inventory
+
 Sales.json = Containing all the sales of the Inventory
+
 Bill.txt = Printing the bill of the customer
+
 ### Features->
 Adding Products into the Inventory 
 Updating the Products in the Inventory with more and more Functionalities
