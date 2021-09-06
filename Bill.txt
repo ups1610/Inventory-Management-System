@@ -1,0 +1,23 @@
+**********************************
+BILL generated for Upendra at Mon Sep  6 12:33:51 2021
+**********************************
+Total Items purchased 2
+============================
+Product ID: 1019
+Product Name: Treat
+Product Company : Campo
+Product Price: 30
+Product Quantity : 2
+Amount : 60
+============================
+Product ID: 1028
+Product Name: Fruit Drop
+Product Company : Parle
+Product Price: 72
+Product Quantity : 1
+Amount : 72
+------------------------
+Total Bill : 132
+Bill after Discount------------->
+Paying Amount : 125
+------------------THANKS FOR COMING.HAVE A GOOD DAY---------------
