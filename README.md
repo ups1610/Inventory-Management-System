@@ -15,12 +15,19 @@ Bill.txt = Printing the bill of the customer
 
 ### Features->
 Adding Products into the Inventory 
+
 Updating the Products in the Inventory with more and more Functionalities
+
 User can purchase multiple item at a time and getting all the features like total amount ,discount, time etc...
+
 Bill will be Generated at the time customer purchased the products and time wil also shown on the bill and you can print the bill present in Bill.txt document
+
 Bill contain all the required details that customer can easily understand
+
 Updating Inventory after the each sales
-generating sales and updating it so that retailer get all the details at the end such how much sales have been done today with various functionalities
+
+Generating sales and updating it so that retailer get all the details at the end such how much sales have been done today with various functionalities
+
 Updating Sales.json file each time sales is done 
 
 ## Who AM I
