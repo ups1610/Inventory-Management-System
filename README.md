@@ -19,9 +19,11 @@ generating sales and updating it so that retailer get all the details at the end
 Updating Sales.json file each time sales is done 
 
 ## Who AM I
-My name is Upendra Pratap Singh, a student of B.tech and Founder of The Hustlers and currently doing Competitive Programming by achieving 5* at Hackerrank 3* at Codechef(max rating 1720) 2* at Leetcode and scoring all over the world 272 rank in Codechef starters10 contest. Also teaching C++ and taking various Tech Podcast on YouTube. Also a ML/AI enthusiast and open source enthusiast contributed in Fedora projects in Kernel testing and also the part of GirlsScript Women of Code as Contributer.
+My name is **Upendra Pratap Singh**, a student of B.tech and **Founder of The Hustlers** and currently doing **Competitive Programming** by achieving **5* at Hackerrank** 3* at **Codechef(max rating 1720)** 2* at Leetcode and scoring all over the **world 272 rank in Codechef starters10 contest**. Also teaching C++ and taking various Tech Podcast on YouTube. Also a **ML/AI enthusiast** and open source enthusiast **contributed in Fedora projects** in Kernel testing and also the part of **GirlsScript Women of Code as Contributer**.
 
 ### Other Useful Links
 LinkedIN :https://www.linkedin.com/in/upendrapratapsingh-1610/
+
 Youtube  :https://www.youtube.com/c/TheHustlerschannel
+
 Instagram:https://www.instagram.com/upendrapratap_16/
