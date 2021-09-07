@@ -14,21 +14,21 @@ Sales.json = Containing all the sales of the Inventory
 Bill.txt = Printing the bill of the customer
 
 ### Features->
-Adding Products into the Inventory 
+• Adding Products into the Inventory 
 
-Updating the Products in the Inventory with more and more Functionalities
+• Updating the Products in the Inventory with more and more Functionalities
 
-User can purchase multiple item at a time and getting all the features like total amount ,discount, time etc...
+• User can purchase multiple item at a time and getting all the features like total amount ,discount, time etc...
 
-Bill will be Generated at the time customer purchased the products and time wil also shown on the bill and you can print the bill present in Bill.txt document
+• Bill will be Generated at the time customer purchased the products and time wil also shown on the bill and you can print the bill present in Bill.txt document
 
-Bill contain all the required details that customer can easily understand
+• Bill contain all the required details that customer can easily understand
 
-Updating Inventory after the each sales
+• Updating Inventory after the each sales
 
-Generating sales and updating it so that retailer get all the details at the end such how much sales have been done today with various functionalities
+• Generating sales and updating it so that retailer get all the details at the end such how much sales have been done today with various functionalities
 
-Updating Sales.json file each time sales is done 
+• Updating Sales.json file each time sales is done 
 
 ## Who AM I
 My name is **Upendra Pratap Singh**, a student of B.tech and **Founder of The Hustlers** and currently doing **Competitive Programming** by achieving **5* at Hackerrank** 3* at **Codechef(max rating 1720)** 2* at Leetcode and scoring all over the **world 272 rank in Codechef starters10 contest**. Also teaching C++ and taking various Tech Podcast on YouTube. Also a **ML/AI enthusiast** and open source enthusiast **contributed in Fedora projects** in Kernel testing and also the part of **GirlsScript Women of Code as Contributer**.
